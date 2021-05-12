@@ -239,6 +239,12 @@ body {
                 margin-left: .5%;
               }
           }
+
+          h5{
+            text-align: justify;
+            margin-left: 2%;
+         }
+         
           
             @media only screen and (max-width:300px) {
             /* For phones: */
@@ -299,5 +305,13 @@ body {
               .gallery img{
                 margin-left: .5%;
               }
+
+              #gallery-modal .modal-img{
+                width: 1000%;
+                height: auto;
+                margin-left: .5%;
+                border-radius:30px;
+                padding: 2px;
+            }
         }
     }
