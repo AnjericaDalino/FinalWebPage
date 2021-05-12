@@ -115,7 +115,7 @@ body {
 
         .line2{
             float: left;
-            margin-left: 44%;
+            margin-left: 45%;
           }
           
           .line3{
@@ -169,7 +169,7 @@ body {
               
               .line2{
                 float: left;
-                margin-left: 44%;
+                margin-left: 45%;
               }
               
               .line3{
@@ -227,7 +227,7 @@ body {
               
               .line2{
                 float: left;
-                margin-left: 40%;
+                margin-left: 30%;
               }
               
               .line3{
@@ -244,6 +244,14 @@ body {
             text-align: justify;
             margin-left: 2%;
          }
+
+         #gallery-modal .modal-img{
+          width: 100%;
+          height: auto;
+          margin-left: .1%;
+          border-radius:30px;
+          padding: 1px;
+      }
          
           
             @media only screen and (max-width:300px) {
@@ -294,7 +302,7 @@ body {
               
               .line2{
                 float: left;
-                margin-left: 20%;
+                margin-left: 25%;
               }
               
               .line3{
@@ -307,7 +315,7 @@ body {
               }
 
               #gallery-modal .modal-img{
-                width: 1000%;
+                width: 100%;
                 height: auto;
                 margin-left: .5%;
                 border-radius:30px;
